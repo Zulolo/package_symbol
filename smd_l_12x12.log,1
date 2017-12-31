@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMD_L_12X12.dra                               )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Mon Jan 21 22:41:55 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = J:/Cadence/Package_Symbol
+    Name      = smd_l_12x12.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

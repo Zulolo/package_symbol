@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ENC-03M.dra                                   )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Fri Oct 15 23:19:32 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = J:/Cadence/Package_Symbol
+    Name      = enc-03m.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

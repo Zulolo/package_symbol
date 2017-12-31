@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LQFP144.dra                                   )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Sun Nov 28 22:43:43 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = J:/Cadence/Package_Symbol
+    Name      = lqfp144.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

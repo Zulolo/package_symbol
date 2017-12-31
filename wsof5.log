@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : WSOF5.dra                                     )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Sat Dec 18 12:09:33 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = J:/Cadence/Package_Symbol
+    Name      = wsof5.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOIC_4_N_CPC1035N.dra                         )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Sat May 04 11:18:21 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = J:/Cadence/Package_Symbol
+    Name      = soic_4_n_cpc1035n.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

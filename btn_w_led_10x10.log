@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : BTN_W_LED_10x10.dra                           )
+(    Software Version : 16.6S008                                      )
+(    Date/Time        : Tue Sep 20 22:22:50 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/Cadence/Package_Symbol
+    Name      = btn_w_led_10x10.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

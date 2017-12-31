@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOIC28_IR2136_BU.dra                          )
+(    Software Version : 16.6S008                                      )
+(    Date/Time        : Tue Nov 25 21:05:30 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/Cadence/Package_Symbol
+    Name      = soic28_ir2136_bu.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

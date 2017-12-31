@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOP8-ACT4060A.dra                             )
+(    Software Version : 16.6S008                                      )
+(    Date/Time        : Sun Aug 03 17:41:40 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/Cadence/Package_Symbol
+    Name      = sop8-act4060a.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

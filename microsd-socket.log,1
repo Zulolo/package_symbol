@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MicroSD-Socket.dra                            )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Thu Dec 16 22:22:58 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/Zulolo_No2/PCB/MOSFET_Board_2
+    Name      = microsd-socket.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

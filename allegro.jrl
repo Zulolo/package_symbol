@@ -1,0 +1,45 @@
+\t (00:00:34) allegro 16.6 S008 (v16-6-112AD) Windows 32
+\t (00:00:34)     Journal start - Sat Dec 30 17:28:38 2017
+\t (00:00:34)         Host=ZULOLO-PC User=Zulolo Pid=15972 CPUs=8
+\t (00:00:34) 
+\d (00:00:34) Database opened: G:/Cadence/Package_Symbol/LQFP48_STM32F103C8T6.dra
+\i (00:00:34) generaledit 
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -2.0131 3.1434
+\i (00:00:35) trapsize 402
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out -2.0132 3.1433
+\t (00:00:35) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
+\i (00:00:35) trapsize 805
+\i (00:00:46) roam start
+\i (00:00:46) roam x 16
+\i (00:00:46) roam x 32
+\i (00:00:46) roam y 32
+\i (00:00:46) roam x 32
+\i (00:00:46) roam y 32
+\i (00:00:46) roam x 16
+\i (00:00:46) roam y 32
+\i (00:00:46) roam x 16
+\i (00:00:46) roam y 48
+\i (00:00:46) roam y 32
+\i (00:00:46) roam y 16
+\i (00:00:47) roam x 48
+\i (00:00:47) roam y 64
+\i (00:00:47) roam x 48
+\i (00:00:47) roam y 32
+\i (00:00:47) roam x 16
+\i (00:00:47) roam y 16
+\i (00:00:47) roam x 16
+\i (00:00:48) roam end
+\i (00:00:51) save 
+\i (00:00:53) fillin yes 
+\t (00:00:54) Symbol 'lqfp48_stm32f103c8t6.psm' created.
+\i (00:00:54) generaledit 
+\i (00:01:00) save_as 
+\i (00:01:07) fillin "LQFP48_MCU.dra"
+\t (00:01:08) Symbol 'lqfp48_mcu.psm' created.
+\i (00:01:08) generaledit 
+\i (00:01:09) exit 
+\t (00:01:10)     Journal end - Sat Dec 30 17:29:13 2017

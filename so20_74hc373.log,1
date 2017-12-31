@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SO20_74HC373.dra                              )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Tue Aug 20 20:26:11 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = J:/Cadence/Package_Symbol
+    Name      = so20_74hc373.psm
+    User      = Zulolo
+    Machine   = ZULOLO-PC
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

@@ -1,0 +1,21 @@
+\t (00:00:00) allegro 16.6 S008 (v16-6-112AD) Windows 32
+\t (00:00:00)     Journal start - Sun Nov 20 09:44:53 2016
+\t (00:00:00)         Host=ZULOLO-PC User=Zulolo Pid=5916 CPUs=8
+\t (00:00:00) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Database opened: G:/Cadence/Package_Symbol/SOP28.dra
+\i (00:00:01) trapsize 650
+\i (00:00:01) trapsize 638
+\i (00:00:01) trapsize 652
+\i (00:00:01) trapsize 652
+\i (00:00:02) generaledit 
+\i (00:00:10) open 
+\i (00:00:29) fillin "G:\Geek\Projects\midi_key_board_btn_only_CH451\PCB\midi_key_board_btn_only.brd"
+\i (00:00:29) cd "G:\Geek\Projects\midi_key_board_btn_only_CH451\PCB"
+\t (00:00:29) Opening existing design...
+\t (00:00:29) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\i (00:00:29) trapsize 2610
+\i (00:00:29) trapsize 2554
+\i (00:00:29) trapsize 2610
+\i (00:00:29) trapsize 2610
+\t (00:00:29)     Journal end - Sun Nov 20 09:45:22 2016
