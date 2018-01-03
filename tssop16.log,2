@@ -3,14 +3,14 @@
 (    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : TSSOP16.dra                                   )
-(    Software Version : 16.6S008                                      )
-(    Date/Time        : Wed Jan 03 20:50:02 2018                      )
+(    Software Version : 16.3p003                                      )
+(    Date/Time        : Sun Aug 04 17:53:51 2013                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = G:/Cadence/Package_Symbol
+    Directory = J:/Cadence/Package_Symbol
     Name      = tssop16.psm
     User      = Zulolo
     Machine   = ZULOLO-PC

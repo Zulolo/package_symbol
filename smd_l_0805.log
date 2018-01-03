@@ -3,14 +3,14 @@
 (    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : SMD_L_0805.dra                                )
-(    Software Version : 16.3p003                                      )
-(    Date/Time        : Sat Aug 03 15:00:27 2013                      )
+(    Software Version : 16.6S008                                      )
+(    Date/Time        : Tue Jan 02 22:35:38 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = J:/Cadence/Package_Symbol
+    Directory = G:/Cadence/Package_Symbol
     Name      = smd_l_0805.psm
     User      = Zulolo
     Machine   = ZULOLO-PC

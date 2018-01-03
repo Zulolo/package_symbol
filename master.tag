@@ -1,1 +1,1 @@
-LQFP48_MCU.dra
+TSOP6.dra

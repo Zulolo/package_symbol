@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : TSSOP16.dra                                   )
+(    Drawing          : HTQFP48.dra                                   )
 (    Software Version : 16.6S008                                      )
-(    Date/Time        : Wed Jan 03 20:50:02 2018                      )
+(    Date/Time        : Wed Jan 03 20:47:18 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = G:/Cadence/Package_Symbol
-    Name      = tssop16.psm
+    Name      = htqfp48.psm
     User      = Zulolo
     Machine   = ZULOLO-PC
 
