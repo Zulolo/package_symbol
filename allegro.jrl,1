@@ -1,0 +1,60 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Feb 11 21:30:20 2018
+\t (00:00:00)         Host=ZULOLO-PC User=Zulolo Pid=10544 CPUs=8
+\t (00:00:00) CmdLine= d:\cadence\spb_17.2\tools\bin\allegro.exe G:\Cadence\Package_Symbol\TO252AA.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: G:/Cadence/Package_Symbol/TO252AA.dra
+\i (00:00:00) trapsize 279
+\i (00:00:00) trapsize 286
+\i (00:00:00) trapsize 286
+\i (00:00:00) generaledit 
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out -0.1486 1.2571
+\i (00:00:01) trapsize 571
+\i (00:00:02) roam start
+\i (00:00:02) roam y 16
+\i (00:00:02) roam y 48
+\i (00:00:02) roam y 32
+\i (00:00:02) roam y 16
+\i (00:00:03) roam end
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 0.3315 -0.0514
+\i (00:00:03) trapsize 1143
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -1.9771 -8.6686
+\i (00:00:04) trapsize 571
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -3.5315 -8.6686
+\i (00:00:05) trapsize 286
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -0.6801 -7.1486
+\i (00:00:06) trapsize 571
+\i (00:00:07) roam start
+\i (00:00:07) roam y -32
+\i (00:00:07) roam x 16
+\i (00:00:07) roam y -224
+\i (00:00:07) roam x 16
+\i (00:00:07) roam y -144
+\i (00:00:07) roam x 32
+\i (00:00:07) roam y -80
+\i (00:00:07) roam y -96
+\i (00:00:07) roam x 16
+\i (00:00:07) roam y -32
+\i (00:00:07) roam x 16
+\i (00:00:07) roam y -48
+\i (00:00:07) roam x 16
+\i (00:00:07) roam y -32
+\i (00:00:07) roam end
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -1.3600 0.2115
+\i (00:00:08) trapsize 1143
+\i (00:00:10) exit 
+\t (00:00:11)     Journal end - Sun Feb 11 21:30:31 2018
