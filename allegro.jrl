@@ -1,94 +1,69 @@
 \t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Sun Feb 11 21:34:03 2018
-\t (00:00:00)         Host=ZULOLO-PC User=Zulolo Pid=10212 CPUs=8
+\t (00:00:00)     Journal start - Mon Feb 12 21:01:40 2018
+\t (00:00:00)         Host=ZULOLO-PC User=Zulolo Pid=5984 CPUs=8
 \t (00:00:00) CmdLine= D:\Cadence\SPB_17.2\tools\bin\allegro.exe
 \t (00:00:00) 
    (00:00:00) Loading axlcore.cxt 
 \t (00:00:00) Opening existing design...
-\d (00:00:00) Design opened: G:/Cadence/Package_Symbol/TO252AA.dra
-\i (00:00:00) trapsize 279
-\i (00:00:00) trapsize 286
-\i (00:00:00) trapsize 286
+\d (00:00:00) Design opened: G:/Cadence/Package_Symbol/HTQFP48.dra
+\i (00:00:00) trapsize 215
+\i (00:00:00) trapsize 220
+\i (00:00:00) trapsize 220
 \i (00:00:00) generaledit 
-\i (00:00:01) zoom out 1 
-\i (00:00:01) setwindow pcb
-\i (00:00:01) zoom out -1.8000 1.3428
-\i (00:00:01) trapsize 571
-\i (00:00:02) roam start
-\i (00:00:02) roam y 112
-\i (00:00:02) roam y 144
-\i (00:00:02) roam y 96
-\i (00:00:02) roam y 16
-\i (00:00:03) roam end
-\i (00:00:03) zoom out 1 
-\i (00:00:03) setwindow pcb
-\i (00:00:03) zoom out -0.3200 -6.1657
-\i (00:00:03) trapsize 1143
-\i (00:00:18) add pin 
-\t (00:00:18) Using 'SMD_15X22_REC.pad'.
-\i (00:00:31) prepopup 5.9086 -1.0114
-\i (00:00:32) cancel 
-\t (00:00:32) Exiting from Add Pin.
-\i (00:00:32) generaledit 
-\i (00:00:37) setwindow form.find
-\i (00:00:37) FORM find pins YES 
-\i (00:01:20) setwindow pcb
-\i (00:01:20) change 
-\i (00:01:27) prepopup 7.2343 -0.6229
-\i (00:01:29) cancel 
-\i (00:01:29) generaledit 
-\i (00:02:41) move 
-\t (00:02:41) Select element(s) to move.
-\i (00:02:44) setwindow form.find
-\i (00:02:44) FORM find all_off  
-\i (00:02:45) FORM find text YES 
-\i (00:02:46) setwindow pcb
-\i (00:02:46) zoom in 1 
-\i (00:02:46) setwindow pcb
-\i (00:02:46) zoom in -3.5314 -10.9543
-\i (00:02:46) trapsize 571
-\i (00:02:47) pick grid -3.7257 -7.4114
-\t (00:02:47) last pick:  -3.7000 -7.4000
-\t (00:02:47) last pick:  -3.5700 -7.7000
-\t (00:02:47) Pick new location for the element(s).
-\i (00:02:52) pick grid -0.6400 -7.9828
-\t (00:02:52) last pick:  -0.6000 -8.0000
-\i (00:02:53) pick grid 0.7543 -7.4685
-\t (00:02:53) last pick:  0.8000 -7.5000
-\t (00:02:53) last pick:  1.0300 -7.6000
-\t (00:02:53) Pick new location for the element(s).
-\i (00:02:56) pick grid 0.8914 -7.9485
-\t (00:02:56) last pick:  0.9000 -7.9000
-\i (00:02:57) roam start
-\i (00:02:57) roam y -64
-\i (00:02:57) roam y -16
-\i (00:02:57) roam y -80
-\i (00:02:57) roam y -80
-\i (00:02:57) roam y -48
-\i (00:02:57) roam y -16
-\i (00:02:57) roam y -64
-\i (00:02:57) roam y -64
-\i (00:02:57) roam y -80
-\i (00:02:57) roam y -48
-\i (00:02:57) roam y -48
-\i (00:02:57) roam y -16
-\i (00:02:57) roam end
-\i (00:02:58) pick grid -1.3257 0.4857
-\t (00:02:58) last pick:  -1.3000 0.5000
-\t (00:02:58) last pick:  -1.2700 0.0000
-\t (00:02:58) Pick new location for the element(s).
-\i (00:03:01) pick grid -0.0229 0.6229
-\t (00:03:01) last pick:  0.0000 0.6000
-\i (00:03:01) prepopup 0.0000 0.5657
-\i (00:03:02) done 
-\i (00:03:02) generaledit 
-\i (00:03:27) save 
-\i (00:03:30) fillin yes 
-\t (00:03:31) Symbol 'to252aa.psm' created.
-\i (00:03:31) generaledit 
-\i (00:03:38) save_as 
-\i (00:03:46) fillin "TO252AA_ZK.dra"
-\t (00:03:46) Symbol 'to252aa_zk.psm' created.
-\i (00:03:46) generaledit 
-\i (00:11:57) exit 
-\t (00:11:58)     Journal end - Sun Feb 11 21:46:00 2018
+\i (00:00:07) opencd G:/Cadence/Package_Symbol/LQFP48_MCU.dra 
+\t (00:00:07) Opening existing design...
+\i (00:00:08) fillin yes 
+\t (00:00:09) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\t (00:00:09) Grids are drawn 0.1000, 0.1000 apart for enhanced viewability.
+\i (00:00:09) trapsize 822
+\i (00:00:09) trapsize 841
+\t (00:00:09) Grids are drawn 0.1000, 0.1000 apart for enhanced viewability.
+\i (00:00:09) trapsize 881
+\d (00:00:09) Design opened: G:/Cadence/Package_Symbol/LQFP48_MCU.dra
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -4.4054 5.2452
+\i (00:00:10) trapsize 441
+\i (00:00:12) setwindow form.mini
+\i (00:00:12) FORM mini subcolor 0 
+\i (00:00:13) FORM mini subcolor 1 
+\i (00:00:24) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:25) FORM mini subcolor 0 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) delete 
+\i (00:00:28) pick grid -4.2556 4.5226
+\t (00:00:28) last pick:  -4.2500 4.5000
+\t (00:00:28) Shape "Package Geometry/Silkscreen_Top"
+\i (00:00:28) prepopup -4.2556 4.5226
+\i (00:00:29) done 
+\i (00:00:29) generaledit 
+\i (00:00:30) setwindow form.mini
+\i (00:00:30) FORM mini subcolor 1 
+\i (00:00:33) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) add circle 
+\t (00:00:36) Pick center point of the circle.
+\t (00:00:36) Pick center point of the circle.
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -3.8767 4.3992
+\i (00:00:37) trapsize 220
+\i (00:00:40) setwindow form.mini
+\i (00:00:40) FORM mini line_width 0.3000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) pick grid -4.3657 4.3464
+\t (00:00:42) last pick:  -4.3500 4.3500
+\t (00:00:42) Pick a perimeter point on the circle.
+\i (00:00:44) pick grid -3.8722 4.0247
+\t (00:00:44) last pick:  -3.8500 4.0000
+\t (00:00:44) Pick center point of the circle.
+\i (00:00:44) prepopup -3.8722 4.0203
+\i (00:00:45) done 
+\i (00:00:45) generaledit 
+\i (00:00:46) save 
+\i (00:00:47) fillin yes 
+\t (00:00:48) Symbol 'lqfp48_mcu.psm' created.
+\i (00:00:48) generaledit 
+\i (00:00:49) exit 
+\t (00:00:49)     Journal end - Mon Feb 12 21:02:29 2018
