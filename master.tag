@@ -1,1 +1,1 @@
-LQFP48_MCU.dra
+TO252AA_ZK.dra

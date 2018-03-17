@@ -1,137 +1,69 @@
 \t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Mon Feb 12 20:58:16 2018
-\t (00:00:00)         Host=ZULOLO-PC User=Zulolo Pid=14732 CPUs=8
+\t (00:00:00)     Journal start - Mon Feb 12 21:01:40 2018
+\t (00:00:00)         Host=ZULOLO-PC User=Zulolo Pid=5984 CPUs=8
 \t (00:00:00) CmdLine= D:\Cadence\SPB_17.2\tools\bin\allegro.exe
 \t (00:00:00) 
    (00:00:00) Loading axlcore.cxt 
 \t (00:00:00) Opening existing design...
-\d (00:00:00) Design opened: G:/Cadence/Package_Symbol/C2X4_smd_1p27.dra
-\i (00:00:00) trapsize 70
-\i (00:00:00) trapsize 71
-\i (00:00:00) trapsize 71
+\d (00:00:00) Design opened: G:/Cadence/Package_Symbol/HTQFP48.dra
+\i (00:00:00) trapsize 215
+\i (00:00:00) trapsize 220
+\i (00:00:00) trapsize 220
 \i (00:00:00) generaledit 
-\i (00:00:11) opencd G:/Cadence/Package_Symbol/HTSSOP56.dra 
-\t (00:00:11) Opening existing design...
-\t (00:00:11) Grids are drawn 0.2000, 0.2000 apart for enhanced viewability.
-\i (00:00:11) trapsize 1117
-\i (00:00:11) trapsize 1143
-\i (00:00:11) trapsize 1143
-\d (00:00:11) Design opened: G:/Cadence/Package_Symbol/HTSSOP56.dra
-\i (00:00:11) generaledit 
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in -1.4114 2.6915
-\i (00:00:13) trapsize 571
-\i (00:00:13) zoom in 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom in -1.5257 2.5315
-\i (00:00:13) trapsize 286
-\i (00:00:17) zoom in 1 
-\i (00:00:17) setwindow pcb
-\i (00:00:17) zoom in -1.0628 1.4515
-\i (00:00:17) trapsize 143
-\i (00:00:21) setwindow form.mini
-\i (00:00:21) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:24) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:07) opencd G:/Cadence/Package_Symbol/LQFP48_MCU.dra 
+\t (00:00:07) Opening existing design...
+\i (00:00:08) fillin yes 
+\t (00:00:09) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
+\t (00:00:09) Grids are drawn 0.1000, 0.1000 apart for enhanced viewability.
+\i (00:00:09) trapsize 822
+\i (00:00:09) trapsize 841
+\t (00:00:09) Grids are drawn 0.1000, 0.1000 apart for enhanced viewability.
+\i (00:00:09) trapsize 881
+\d (00:00:09) Design opened: G:/Cadence/Package_Symbol/LQFP48_MCU.dra
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -4.4054 5.2452
+\i (00:00:10) trapsize 441
+\i (00:00:12) setwindow form.mini
+\i (00:00:12) FORM mini subcolor 0 
+\i (00:00:13) FORM mini subcolor 1 
+\i (00:00:24) FORM mini subclass PLACE_BOUND_TOP 
 \i (00:00:25) FORM mini subcolor 0 
-\i (00:00:26) FORM mini subcolor 1 
-\i (00:00:32) setwindow pcb
-\i (00:00:32) delete 
-\i (00:00:37) pick grid -1.0656 1.7573
-\t (00:00:37) last pick:  -1.1000 1.8000
-\t (00:00:37) Shape "Package Geometry/Silkscreen_Top"
-\i (00:00:38) prepopup -1.0656 1.7573
-\i (00:00:38) done 
-\i (00:00:38) generaledit 
-\i (00:01:01) add circle 
-\t (00:01:01) Pick center point of the circle.
-\t (00:01:01) Pick center point of the circle.
-\i (00:01:06) setwindow form.mini
-\i (00:01:06) FORM mini line_width 0.2000 
-\i (00:01:10) FORM mini line_width 0.3000 
-\i (00:01:14) setwindow pcb
-\i (00:01:14) pick grid -0.9713 1.4916
-\t (00:01:14) last pick:  -1.0000 1.5000
-\t (00:01:14) Pick a perimeter point on the circle.
-\i (00:01:20) pick grid -0.5485 1.4316
-\t (00:01:20) last pick:  -0.5000 1.4000
-\t (00:01:20) Pick center point of the circle.
-\i (00:01:20) prepopup -0.4742 1.4173
-\i (00:01:21) done 
-\i (00:01:21) generaledit 
-\i (00:01:22) zoom out 1 
-\i (00:01:22) setwindow pcb
-\i (00:01:22) zoom out 0.4229 1.4859
-\i (00:01:22) trapsize 286
-\i (00:01:23) zoom out 1 
-\i (00:01:23) setwindow pcb
-\i (00:01:23) zoom out 0.4230 1.4858
-\i (00:01:23) trapsize 571
-\i (00:01:26) save 
-\i (00:01:28) fillin yes 
-\t (00:01:29) Symbol 'htssop56.psm' created.
-\i (00:01:29) generaledit 
-\i (00:01:38) opencd G:/Cadence/Package_Symbol/HTQFP48.dra 
-\t (00:01:38) Opening existing design...
-\t (00:01:38) Grids are drawn 0.4000, 0.4000 apart for enhanced viewability.
-\i (00:01:38) trapsize 215
-\i (00:01:38) trapsize 220
-\i (00:01:38) trapsize 220
-\d (00:01:38) Design opened: G:/Cadence/Package_Symbol/HTQFP48.dra
-\i (00:01:38) generaledit 
-\i (00:01:39) zoom out 1 
-\i (00:01:39) setwindow pcb
-\i (00:01:39) zoom out -3.7100 4.0590
-\i (00:01:39) trapsize 441
-\i (00:01:40) zoom in 1 
-\i (00:01:40) setwindow pcb
-\i (00:01:40) zoom in -4.0184 4.3587
-\i (00:01:40) trapsize 220
-\i (00:01:42) delete 
-\i (00:01:50) prepopup -6.2966 4.6672
-\i (00:01:52) delete 
-\i (00:01:58) prepopup -5.9529 4.6011
-\i (00:01:59) done 
-\i (00:01:59) generaledit 
-\i (00:02:01) setwindow form.mini
-\i (00:02:01) FORM mini subcolor 0 
-\i (00:02:03) setwindow pcb
-\i (00:02:03) delete 
-\i (00:02:04) pick grid -4.1242 4.4953
-\t (00:02:04) last pick:  -4.1000 4.5000
-\t (00:02:04) Shape "Package Geometry/Silkscreen_Top"
-\i (00:02:04) prepopup -4.1242 4.4953
-\i (00:02:05) done 
-\i (00:02:05) generaledit 
-\i (00:02:06) setwindow form.mini
-\i (00:02:06) FORM mini subcolor 1 
-\i (00:02:10) FORM mini subclass SILKSCREEN_TOP 
-\i (00:02:15) setwindow pcb
-\i (00:02:15) add circle 
-\t (00:02:15) Pick center point of the circle.
-\t (00:02:15) Pick center point of the circle.
-\i (00:02:18) setwindow form.mini
-\i (00:02:18) FORM mini line_width 0.3000 
-\i (00:02:22) setwindow pcb
-\i (00:02:22) pick grid -4.7807 4.7950
-\t (00:02:22) last pick:  -4.8000 4.8000
-\t (00:02:22) Pick a perimeter point on the circle.
-\i (00:02:23) prepopup -4.3269 4.6496
-\i (00:02:24) oops 
-\t (00:02:24) Pick center point of the circle.
-\i (00:02:26) pick grid -4.4943 4.5394
-\t (00:02:26) last pick:  -4.5000 4.5500
-\t (00:02:26) Pick a perimeter point on the circle.
-\i (00:02:28) pick grid -3.8730 4.2618
-\t (00:02:28) last pick:  -3.8500 4.2500
-\t (00:02:28) Pick center point of the circle.
-\i (00:02:28) prepopup -3.8730 4.2574
-\i (00:02:30) prepopup -6.3760 4.4557
-\i (00:02:31) done 
-\i (00:02:31) generaledit 
-\i (00:02:32) save 
-\i (00:02:33) fillin yes 
-\t (00:02:34) Symbol 'htqfp48.psm' created.
-\i (00:02:34) generaledit 
-\i (00:02:34) exit 
-\t (00:02:35)     Journal end - Mon Feb 12 21:00:51 2018
+\i (00:00:27) setwindow pcb
+\i (00:00:27) delete 
+\i (00:00:28) pick grid -4.2556 4.5226
+\t (00:00:28) last pick:  -4.2500 4.5000
+\t (00:00:28) Shape "Package Geometry/Silkscreen_Top"
+\i (00:00:28) prepopup -4.2556 4.5226
+\i (00:00:29) done 
+\i (00:00:29) generaledit 
+\i (00:00:30) setwindow form.mini
+\i (00:00:30) FORM mini subcolor 1 
+\i (00:00:33) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) add circle 
+\t (00:00:36) Pick center point of the circle.
+\t (00:00:36) Pick center point of the circle.
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in -3.8767 4.3992
+\i (00:00:37) trapsize 220
+\i (00:00:40) setwindow form.mini
+\i (00:00:40) FORM mini line_width 0.3000 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) pick grid -4.3657 4.3464
+\t (00:00:42) last pick:  -4.3500 4.3500
+\t (00:00:42) Pick a perimeter point on the circle.
+\i (00:00:44) pick grid -3.8722 4.0247
+\t (00:00:44) last pick:  -3.8500 4.0000
+\t (00:00:44) Pick center point of the circle.
+\i (00:00:44) prepopup -3.8722 4.0203
+\i (00:00:45) done 
+\i (00:00:45) generaledit 
+\i (00:00:46) save 
+\i (00:00:47) fillin yes 
+\t (00:00:48) Symbol 'lqfp48_mcu.psm' created.
+\i (00:00:48) generaledit 
+\i (00:00:49) exit 
+\t (00:00:49)     Journal end - Mon Feb 12 21:02:29 2018
