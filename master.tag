@@ -1,1 +1,1 @@
-TO252AA_ZK.dra
+SOIC8.dra
