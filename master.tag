@@ -1,1 +1,1 @@
-SOIC8.dra
+LQFP48.dra
