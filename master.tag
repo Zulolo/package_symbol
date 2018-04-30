@@ -1,1 +1,1 @@
-LQFP48.dra
+DO-214AB.dra
