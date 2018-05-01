@@ -1,1 +1,1 @@
-LQFP100.dra
+ETH_TRANS.dra
