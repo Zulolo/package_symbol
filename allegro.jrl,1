@@ -1,23 +1,21 @@
-\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Thu May 17 20:59:51 2018
-\t (00:00:03)         Host=ZULOLO-PC User=Zulolo Pid=1836 CPUs=8
-\t (00:00:03) CmdLine= D:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\d (00:00:04) Design opened: G:/Cadence/Package_Symbol/C1X2_p381.dra
-\i (00:00:05) trapsize 35
-\i (00:00:05) trapsize 36
-\i (00:00:05) trapsize 36
-\i (00:00:05) generaledit 
-\i (00:00:20) open 
-\i (00:00:47) fillin "G:\Work\io\design\pcb\io_4di_4aic_dbdoctor.brd"
-\i (00:00:47) cd "G:\Work\io\design\pcb"
-\t (00:00:47) Opening existing design...
-\t (00:00:47) Grids are drawn 3.200, 3.200 apart for enhanced viewability.
-\t (00:00:47) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
-\i (00:00:47) trapsize 1117
-\i (00:00:48) trapsize 1143
-\t (00:00:48) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
-\i (00:00:48) trapsize 1143
-\t (00:00:48)     Journal end - Thu May 17 21:00:36 2018
+\t (00:00:04) allegro 17.2 S007 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Jul 18 20:42:47 2018
+\t (00:00:04)         Host=ZULOLO-PC User=dodol Pid=10248 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+   (00:00:04) *Error* load: can't access file - "J:\\Cadence\\pcbenv\\DstCxi.il"
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: G:/Cadence/Package_Symbol/SMD_C_P_7343.dra
+\i (00:00:05) trapsize 197
+\i (00:00:06) trapsize 202
+\i (00:00:06) trapsize 202
+\i (00:00:06) etchedit 
+\i (00:11:34) open 
+\i (00:11:45) fillin "menu_cancel"
+\i (00:11:45) etchedit 
+\i (00:13:39) open 
+\i (00:13:48) fillin "menu_cancel"
+\i (00:13:48) etchedit 
+\i (01:44:27) exit 
+\t (01:44:27)     Journal end - Wed Jul 18 22:27:10 2018

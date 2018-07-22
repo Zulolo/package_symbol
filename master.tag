@@ -1,1 +1,1 @@
-LQFP100.dra
+SMD_D_1206.dra
